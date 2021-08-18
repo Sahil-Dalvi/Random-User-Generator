@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import "./App.css"
 
-import {Container,Row,Col, Card} from "reactstrap"
+import {Container,Row,Col} from "reactstrap"
 import "bootstrap/dist/css/bootstrap.min.css"
 
 import Axios from "axios"
